@@ -23,6 +23,7 @@ We welcome community contributions! If you run or know an AI directory that shou
 | Directory | Website | Focus / Category | Description |
 | :--- | :--- | :--- | :--- |
 | **Vinggle** ![Featured](https://img.shields.io/badge/Featured-FF5722?style=flat-square&logoColor=white) | [vinggle.com](https://vinggle.com) | Curated AI Tools & Software | Curated platform to discover and promote top AI tools for productivity, marketing, and founders. |
+| **AI Tools Directory** | [aitoolsdirectory.si](https://aitoolsdirectory.si) | AI Tools Discovery | Curated directory of the best AI tools, organized by category for easy discovery and submission. |
 | AI Valley | [aivalley.ai](https://aivalley.ai) | Daily AI Tools | Daily updated repository of AI platforms, prompt tools, and startup launches. |
 | AlternativeTo | [alternativeto.net](https://alternativeto.net) | Software Alternatives | Crowdsourced platform highlighting software alternatives and AI tools. |
 | BetaList | [betalist.com](https://betalist.com) | Early-Stage Startups | Discovery engine for newly launched internet startups and beta software. |
